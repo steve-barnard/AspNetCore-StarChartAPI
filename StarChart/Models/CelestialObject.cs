@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace StarChart.Models
 {
-    public class Class
+    public class CelestialObject
     {
         public int   Id { get; set; }
         [Required]
